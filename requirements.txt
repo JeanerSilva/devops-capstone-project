@@ -5,6 +5,9 @@ SQLAlchemy==1.4.46
 #coursera
 Flask-Talisman
 
+#Cors
+Flask-Cors
+
 # Build dependencies
 Flask==2.1.2
 Flask-SQLAlchemy==2.5.1
